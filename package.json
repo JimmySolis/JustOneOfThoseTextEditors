@@ -1,6 +1,9 @@
 {
   "name": "JATE",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.4.0"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -12,7 +15,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jimmy Solis",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
