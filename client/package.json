@@ -6,6 +6,9 @@
     "start": "webpack --watch"
   },
   "author": "2U",
+  "engines": {
+    "node": "18.4.0"
+  },
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
